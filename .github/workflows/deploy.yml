@@ -2,7 +2,7 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [main] # ブランチ名がmasterの場合は書き換えてください
+    branches: [main]
 
 permissions:
   contents: read
@@ -15,9 +15,23 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
-      - name: Install, build, and upload with Astro
-        uses: withastro/action@v3
-        # リポジトリ名を含むURLにする場合は、path: my-blog のように指定が必要な場合があります
+
+      - name: Install Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20 # 最新の安定版を指定
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm install
+
+      - name: Build Astro
+        run: npm run build
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./dist
 
   deploy:
     needs: build
