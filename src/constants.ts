@@ -30,11 +30,17 @@ export const SOCIALS: Social[] = [
     icon: IconBrandX,
   },
   {
+    name: "Facebook",
+    href: "https://www.facebook.com/akira.mukai0309",
+    linkTitle: `${SITE.title} on Facebook`,
+    icon: IconFacebook,
+  },
+  /*{
     name: "LinkedIn",
     href: "https://www.linkedin.com/in/username/",
     linkTitle: `${SITE.title} on LinkedIn`,
     icon: IconLinkedin,
-  },
+  },*/
   {
     name: "Mail",
     href: "mailto:s0323861@gmail.com",
