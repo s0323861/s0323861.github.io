@@ -4,7 +4,7 @@ on:
   push:
     branches: [main]
 
-# ↓ ここに環境変数を追加します
+# ↓ ここに環境変数を追加して最新版への移行を許可します
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
@@ -23,7 +23,7 @@ jobs:
       - name: Install Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 24 # ここも20から24に上げておくと確実です
+          node-version: 24 # 20から24に上げておきます
           # cache: 'npm' は以前のエラー回避のため外したままにします
 
       - name: Install dependencies
@@ -39,14 +39,6 @@ jobs:
 
   deploy:
     needs: build
-    runs-on: ubuntu-latest
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - name: Deploy to GitHub Pages
-        id: deployment
-        uses: actions/deploy-pages@v4    needs: build
     runs-on: ubuntu-latest
     environment:
       name: github-pages
