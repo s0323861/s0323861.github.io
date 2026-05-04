@@ -12,10 +12,6 @@ title: "About"
 *   **使用ギア:** Apple Watch
 *   **目標:** 自己ベストの更新と，怪我のないランニングライフの両立
 
-## 🔬 Research & Academic
-日々新しい知見の探求に励んでいます。
-専門領域だけでなく，幅広い分野に関心があります。
-
 ## 💻 Tech & Development
 「作りたいものを，自分の手で形にする」をモットーに，プログラムを書いています。
 *   **Web:** PHP / Python / Google Apps Script
