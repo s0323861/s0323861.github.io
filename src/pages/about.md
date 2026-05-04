@@ -25,6 +25,11 @@ title: "About"
 *   **AI Illustration:** Stable Diffusion を活用し，イラスト制作などを行っています。
 *   **Languages:** 英語（高度な表現を学習中）に加え，多言語の習得に挑戦しています。
 
+## 🕹️ Hobby & Life
+日々の学習や娯楽も大切にしています。
+*   **Gaming:** [Steam](https://steamcommunity.com/profiles/76561198745821670) でELDEN RINGをプレイ中です。
+*   **Language Learning:** [Duolingo](https://www.duolingo.com/profile/AkirainJapan) を使って，隙間時間に語学力を磨いています。
+
 ---
 
 ## Contact
