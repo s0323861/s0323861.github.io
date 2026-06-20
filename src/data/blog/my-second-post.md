@@ -7,11 +7,12 @@ featured: true
 draft: false
 tags:
   - general
-  - introduction
+  - 読書
 description: DIE WITH ZERO を読み始めました。
 ---
 
 # 2回目の投稿です
 
-Andy Weir の Artemis を読み終わったので，昨日からDie With Zero を読み始めました。  
+Andy Weir の Artemis を読み終わったので，昨日からDIE WITH ZERO を読み始めました。  
+英語の勉強のため，原書で読んでいます。  
 毎日少しずつ読み進めたいと思います。
