@@ -11,9 +11,9 @@ title: "About"
 ![東京マラソン](/tokyo.jpg)
 
 ## 💻 IT
-「作りたいものを，自分の手で形にする」をモットーに，プログラムを書いています。
-*   **Web:** PHP / Python / Google Apps Script
-*   **Current Projects:** Astro + GitHub Pages による本ポートフォリオの運用
+このサイトは Astro + GitHub Pages で運用しています。
+- **プログラミング言語:** PHP / Python / Java / Google Apps Script
+- **GitHub:** [s0323861](https://github.com/s0323861)
 
 ## 🎨 イラスト
 iPadでイラストを描くのが好きです。
@@ -29,5 +29,4 @@ iPadでイラストを描くのが好きです。
 ## Contact
 何かありましたら，お気軽にご連絡ください。
 
-- **GitHub:** [s0323861](https://github.com/s0323861)
 - **Location:** 山口県山口市
