@@ -6,7 +6,7 @@ slug: second-post
 featured: true
 draft: false
 tags:
-  - general
+  - 趣味
   - 読書
 description: DIE WITH ZERO を読み始めました。
 ---
