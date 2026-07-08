@@ -1,6 +1,6 @@
 ---
 author: 向井聡
-pubDatetime: 2026-07-08T09:00:00Z
+pubDatetime: 2026-07-08T09:40:00+09:00
 title: 幹事くんをPHPとBootstrap 5でリニューアルしました
 slug: kanjikun-version-up
 featured: false
