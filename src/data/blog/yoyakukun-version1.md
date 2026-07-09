@@ -1,16 +1,16 @@
 ---
-
-author: 向井聡
-pubDatetime: 2026-07-09 15:40:00 +0900
-title: 予約くん Version 1 が完成しました
-slug: yoyakukun-version1
+author: "向井聡"
+pubDatetime: 2026-07-09 16:00:00 +0900
+title: "予約くん Version 1 が完成しました"
+slug: "yoyakukun-version1"
 featured: false
 draft: false
 tags:
+  - web
   - php
   - bootstrap
-description: 登録不要で使える軽量予約システム「予約くん」の Version 1 が完成しました。
-
+  - yoyakukun
+description: "登録不要で使える軽量予約システム「予約くん」の Version 1 が完成しました。"
 ---
 
 # 予約くん Version 1 が完成しました
