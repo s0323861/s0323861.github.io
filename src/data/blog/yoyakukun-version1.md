@@ -7,10 +7,9 @@ slug: yoyakukun-version1
 featured: false
 draft: false
 tags:
-
-* php
-* bootstrap
-  description: 登録不要で使える軽量予約システム「予約くん」の Version 1 が完成しました。
+  - php
+  - bootstrap
+description: 登録不要で使える軽量予約システム「予約くん」の Version 1 が完成しました。
 
 ---
 
