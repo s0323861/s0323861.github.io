@@ -4,7 +4,7 @@ pubDatetime: 2026-08-11T22:56:00Z+09:00
 title: ツール「PDF らくらく編集工房」を作成
 slug: pdf_maker
 featured: false
-draft: true
+draft: false
 tags:
   - pdf
 description: "複数のPDFファイルをひとつにまとめたり，自由な順番に並び替え・回転・削除ができるツールを作成しました"
@@ -13,4 +13,4 @@ description: "複数のPDFファイルをひとつにまとめたり，自由な
 
 ブラウザ上でPDFファイルを結合したり，ページの順番を入れ替えたりできるようなツールを作ってみました。
 
-実際に作って見たサイトは，[こちら](https://tsukuba42195.sakura.ne.jp/pdf_maker/)です。
+実際に作ってみたサイトは，[こちら](https://tsukuba42195.sakura.ne.jp/pdf_maker/)です。
